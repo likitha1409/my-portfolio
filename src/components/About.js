@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
-import profile from "../assets/images/profile.jpeg";
+import profile from "../assets/images/profile.jpg";
 
 function About() {
   const [showText, setShowText] = useState(false);

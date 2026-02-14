@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import profile from "../assets/images/profile.jpeg";
+import profile from "../assets/images/profile.jpg";
 
 function Hero() {
   return (
